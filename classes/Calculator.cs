@@ -1,9 +1,11 @@
+// class Class : Interface --> means "implements" in this case
 public class Calculator  : ICalculator
 {
     // Fields
     public double x;
     public double y;
 
+    // Methods that implements the interface ICalculator
     public double Add(double a, double b)
     {
         return a + b;
@@ -21,12 +23,13 @@ public class Calculator  : ICalculator
 
     public double Divide(double a, double b)
     {
-        if (b == 0 || b.Equals (0) )
+        if (b == 0 || b.Equals(0))
         {
             Console.WriteLine("Cannot divide by 0");
             throw new Exception();
         }
-        else {
+        else 
+        {
             return a / b;
         }
         
@@ -35,7 +38,7 @@ public class Calculator  : ICalculator
     /// <summary>
     /// A method that returns the power of x^n
     /// </summary>
-    /// <param name="a">value a</param>
+    /// <param name="x">value x</param>
     /// <param name="n">value n</param>
     /// <returns>the power of n to x</returns>
     public double Power(double x, double n)

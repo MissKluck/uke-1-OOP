@@ -1,14 +1,15 @@
 public interface ICalculator
 {
     /// <summary>
-    /// A methos that returns the sum of A + B
+    /// A method that returns the sum of A + B
     /// </summary>
     /// <param name="a">value of a</param>
     /// <param name="b">value of b</param>
     /// <returns>a + b</returns>
     public double Add(double a, double b);
+
     /// <summary>
-    /// A method that returns the sum og A - B
+    /// A method that returns the sum of A - B
     /// </summary>
     /// <param name="a">value of a</param>
     /// <param name="b">value of b</param>
@@ -16,7 +17,7 @@ public interface ICalculator
     public double Subtract(double a, double b);
 
     /// <summary>
-    /// A methos that returns the sum of A * B
+    /// A method that returns the sum of A * B
     /// </summary>
     /// <param name="a">value of a</param>
     /// <param name="b">value of b</param>
@@ -24,7 +25,8 @@ public interface ICalculator
     public double Multiply(double a, double b);
 
     /// <summary>
-    /// A method that returns the sum of A / B, B cannot be 0 or NULL
+    /// A method that returns the sum of A / B 
+    /// B cannot be 0 or NULL
     /// </summary>
     /// <param name="a">value of a</param>
     /// <param name="b">value of b</param>
