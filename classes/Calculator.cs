@@ -1,5 +1,9 @@
 public class Calculator  : ICalculator
 {
+    // Fields
+    public double x;
+    public double y;
+
     public double Add(double a, double b)
     {
         return a + b;
@@ -15,11 +19,17 @@ public class Calculator  : ICalculator
         return a * b;
     }
 
-    public decimal Subtract(double a, double b)
+    public double Divide(double a, double b)
     {
-        if (b == 0 //)
-        {}
-        return
+        if (b == 0 || b.Equals (0) )
+        {
+            Console.WriteLine("Cannot divide by 0");
+            throw new Exception();
+        }
+        else {
+            return a / b;
+        }
+        
     }
 
     /// <summary>

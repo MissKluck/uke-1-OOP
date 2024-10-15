@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/uke 1 OOP/bin/Debug/net8.0/uke 1 OOP
+/Users/Sigrid/Documents/C#/uke 1 OOP/bin/Debug/net8.0/uke 1 OOP.deps.json
+/Users/Sigrid/Documents/C#/uke 1 OOP/bin/Debug/net8.0/uke 1 OOP.runtimeconfig.json
+/Users/Sigrid/Documents/C#/uke 1 OOP/bin/Debug/net8.0/uke 1 OOP.dll
+/Users/Sigrid/Documents/C#/uke 1 OOP/bin/Debug/net8.0/uke 1 OOP.pdb
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.sourcelink.json
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.dll
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/refint/uke 1 OOP.dll
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.pdb
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/uke 1 OOP.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/uke 1 OOP/obj/Debug/net8.0/ref/uke 1 OOP.dll

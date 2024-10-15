@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uke 1 OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7a5189cbfd9475907c4bac68d23d471ef2f8b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a810db595a74cd4e7d98b4383c621ee1ea72d15b")]
 [assembly: System.Reflection.AssemblyProductAttribute("uke 1 OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uke 1 OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
